@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://wallpapercave.com/wp/9F4nLIq.jpg");
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/269465232491153951/2CD657165732FB6B74DC4E9F677C8D0E2678499D/");
   margin: 2.5cm;
   width: 90%;
   padding: 10px;
@@ -7,31 +7,28 @@ body {
 }
 h1 {
     font-weight: bold;
-    color: gold;
+    color: peru;
+}
+h2 {
+    color: chocolate;
 }
 h3 {
-    color: darkgoldenrod;
+    font-weight: bold;
+    color: chocolate;
 }
 h4 {
-    font-weight: bold;
-    color: darkgoldenrod;
-}
-h5 {
-    color: darkgoldenrod;
-}
-hr { 
-    border: 0; 
-      height: 1px; 
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0)); 
+    color: chocolate;
 }
 table {
-    background-image: url("https://wallpapercave.com/wp/9F4nLIq.jpg");
+    background-color: #D8F0DA;
     color: white;
     text-align: center;
     vertical-align: center;
     border-collapse: collapse;
     border-spacing: 5px;
     padding: 10px;
+    background: transparent;
+
   }
   th, td {
     padding: 10px;
@@ -39,5 +36,5 @@ table {
   }
   
   table, th, td {
-    border: 2px solid darkgoldenrod;
+    border: 2px solid chocolate;
   }
